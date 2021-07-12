@@ -44,6 +44,9 @@ sudo sh configure_usbfs.sh
 ```shell
 sudo apt-get install libboost-all-dev
 ```
+## DataSave subdirectory format
+需要自己设置DataSave_path和DataBase_path
 
+![image-20210712194845932](https://gitee.com/wang-youai/image/raw/master/img/image-20210712194845932.png)
 
 
